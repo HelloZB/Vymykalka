@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/katynko">
+        <file>exit.png</file>
+        <file>reboot.png</file>
+    </qresource>
+</RCC>
